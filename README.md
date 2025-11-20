@@ -7,8 +7,7 @@ This project investigates whether religious composition—specifically the share
 
 The dataset combines:
 Religious population shares (Protestant, Catholic, Other)
-GDP per capita for all 16 German Bundesländer
-Years: 2012–2023
+GDP per capita for all 16 German States in the Years 2012–2023
 Sources: State statistical offices and the Regionaldatenbank.
 All datasets are merged into a balanced state–year panel.
 
